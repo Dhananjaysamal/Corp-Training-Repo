@@ -1,0 +1,8 @@
+com\demo\DemoApplication.class
+com\demo\batch\config\BatchConfig.class
+com\demo\bean\User.class
+com\demo\repository\UserLoanAccountRepo.class
+com\demo\service\UserLoanAccountService.class
+com\demo\batch\processor\UserLoanAccountBatchProcessor.class
+com\demo\batch\config\BatchConfig$1.class
+com\demo\bean\UserLoanAccount.class
