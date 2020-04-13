@@ -4,15 +4,6 @@ public class Order {
 	
 	private int orderId;
 	private String orderDesc;
-	
-	public Order(){
-		
-	}
-	
-	public  Order(int orderId,String orderDesc) {
-		this.orderId=orderId;
-		this.orderDesc=orderDesc;
-	}
 	public int getOrderId() {
 		return orderId;
 	}
