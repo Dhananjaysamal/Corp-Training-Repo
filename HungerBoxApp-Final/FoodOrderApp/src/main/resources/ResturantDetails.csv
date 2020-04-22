@@ -1,0 +1,3 @@
+VendorId,VendorName,MenuType,ItemName,Desc,price,VendorAddress
+V001,BBQ,Non Veg,Chken Biriyani,"""Chicken,Rice""",100,HYD
+V001,BBQ,Veg,Veg Combo,"""Rice,Dal,Curry""",100,HYD

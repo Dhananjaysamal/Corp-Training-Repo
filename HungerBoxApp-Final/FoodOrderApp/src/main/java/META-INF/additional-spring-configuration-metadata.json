@@ -1,0 +1,187 @@
+{"properties": [
+  {
+    "name": "bank-service.ribbon.eureka.enabled",
+    "type": "java.lang.String",
+    "description": "A description for 'bank-service.ribbon.eureka.enabled'"
+  },
+  {
+    "name": "bank-service.ServerListRefreshInterval",
+    "type": "java.lang.String",
+    "description": "A description for 'bank-service.ServerListRefreshInterval'"
+  },
+  {
+    "name": "bank-service.ribbon.listOfServers",
+    "type": "java.lang.String",
+    "description": "A description for 'bank-service.ribbon.listOfServers'"
+  },
+  {
+    "name": "eureka.client.instance.hostname",
+    "type": "java.lang.String",
+    "description": "A description for 'eureka.client.instance.hostname'"
+  },
+  {
+    "name": "bank-service.ribbon.listOfServers",
+    "type": "java.lang.String",
+    "description": "A description for 'bank-service.ribbon.listOfServers'"
+  },
+  {
+    "name": "bank-service.ribbon.listOfServers",
+    "type": "java.lang.String",
+    "description": "A description for 'bank-service.ribbon.listOfServers'"
+  },
+  {
+    "name": "bank-service.ribbon.listOfServers",
+    "type": "java.lang.String",
+    "description": "A description for 'bank-service.ribbon.listOfServers'"
+  },
+  {
+    "name": "bank-service.ribbon.listOfServers",
+    "type": "java.lang.String",
+    "description": "A description for 'bank-service.ribbon.listOfServers'"
+  },
+  {
+    "name": "bank-service.ribbon.listOfServers",
+    "type": "java.lang.String",
+    "description": "A description for 'bank-service.ribbon.listOfServers'"
+  },
+  {
+    "name": "bank-service.ribbon.listOfServers",
+    "type": "java.lang.String",
+    "description": "A description for 'bank-service.ribbon.listOfServers'"
+  },
+  {
+    "name": "bank-service.ServerListRefreshInterval",
+    "type": "java.lang.String",
+    "description": "A description for 'bank-service.ServerListRefreshInterval'"
+  },
+  {
+    "name": "bank-service.ServerListRefreshInterval",
+    "type": "java.lang.String",
+    "description": "A description for 'bank-service.ServerListRefreshInterval'"
+  },
+  {
+    "name": "bank-service.ServerListRefreshInterval",
+    "type": "java.lang.String",
+    "description": "A description for 'bank-service.ServerListRefreshInterval'"
+  },
+  {
+    "name": "bank-service.ServerListRefreshInterval",
+    "type": "java.lang.String",
+    "description": "A description for 'bank-service.ServerListRefreshInterval'"
+  },
+  {
+    "name": "bank-service.ServerListRefreshInterval",
+    "type": "java.lang.String",
+    "description": "A description for 'bank-service.ServerListRefreshInterval'"
+  },
+  {
+    "name": "bank-service.ServerListRefreshInterval",
+    "type": "java.lang.String",
+    "description": "A description for 'bank-service.ServerListRefreshInterval'"
+  },
+  {
+    "name": "bank-service.ServerListRefreshInterval",
+    "type": "java.lang.String",
+    "description": "A description for 'bank-service.ServerListRefreshInterval'"
+  },
+  {
+    "name": "bank-service.ServerListRefreshInterval",
+    "type": "java.lang.String",
+    "description": "A description for 'bank-service.ServerListRefreshInterval'"
+  },
+  {
+    "name": "bank-service.ServerListRefreshInterval",
+    "type": "java.lang.String",
+    "description": "A description for 'bank-service.ServerListRefreshInterval'"
+  },
+  {
+    "name": "bank-service.ServerListRefreshInterval",
+    "type": "java.lang.String",
+    "description": "A description for 'bank-service.ServerListRefreshInterval'"
+  },
+  {
+    "name": "bank-service.ServerListRefreshInterval",
+    "type": "java.lang.String",
+    "description": "A description for 'bank-service.ServerListRefreshInterval'"
+  },
+  {
+    "name": "bank-service.ServerListRefreshInterval",
+    "type": "java.lang.String",
+    "description": "A description for 'bank-service.ServerListRefreshInterval'"
+  },
+  {
+    "name": "bank-service.ServerListRefreshInterval",
+    "type": "java.lang.String",
+    "description": "A description for 'bank-service.ServerListRefreshInterval'"
+  },
+  {
+    "name": "bank-service.ServerListRefreshInterval",
+    "type": "java.lang.String",
+    "description": "A description for 'bank-service.ServerListRefreshInterval'"
+  },
+  {
+    "name": "bank-service.ServerListRefreshInterval",
+    "type": "java.lang.String",
+    "description": "A description for 'bank-service.ServerListRefreshInterval'"
+  },
+  {
+    "name": "bank-service.ServerListRefreshInterval",
+    "type": "java.lang.String",
+    "description": "A description for 'bank-service.ServerListRefreshInterval'"
+  },
+  {
+    "name": "bank-service.ServerListRefreshInterval",
+    "type": "java.lang.String",
+    "description": "A description for 'bank-service.ServerListRefreshInterval'"
+  },
+  {
+    "name": "bank-service.ServerListRefreshInterval",
+    "type": "java.lang.String",
+    "description": "A description for 'bank-service.ServerListRefreshInterval'"
+  },
+  {
+    "name": "bank-service.ServerListRefreshInterval",
+    "type": "java.lang.String",
+    "description": "A description for 'bank-service.ServerListRefreshInterval'"
+  },
+  {
+    "name": "bank-service.ServerListRefreshInterval",
+    "type": "java.lang.String",
+    "description": "A description for 'bank-service.ServerListRefreshInterval'"
+  },
+  {
+    "name": "bank-service.ServerListRefreshInterval",
+    "type": "java.lang.String",
+    "description": "A description for 'bank-service.ServerListRefreshInterval'"
+  },
+  {
+    "name": "bank-service.ServerListRefreshInterval",
+    "type": "java.lang.String",
+    "description": "A description for 'bank-service.ServerListRefreshInterval'"
+  },
+  {
+    "name": "bank-service.ServerListRefreshInterval",
+    "type": "java.lang.String",
+    "description": "A description for 'bank-service.ServerListRefreshInterval'"
+  },
+  {
+    "name": "bank-service.ServerListRefreshInterval",
+    "type": "java.lang.String",
+    "description": "A description for 'bank-service.ServerListRefreshInterval'"
+  },
+  {
+    "name": "bank-service.ServerListRefreshInterval",
+    "type": "java.lang.String",
+    "description": "A description for 'bank-service.ServerListRefreshInterval'"
+  },
+  {
+    "name": "bank-service.ribbon.listOfServers",
+    "type": "java.lang.String",
+    "description": "A description for 'bank-service.ribbon.listOfServers'"
+  },
+  {
+    "name": "bank-service.ribbon.listOfServers",
+    "type": "java.lang.String",
+    "description": "A description for 'bank-service.ribbon.listOfServers'"
+  }
+]}
